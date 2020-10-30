@@ -23,21 +23,11 @@ weight = 2
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 7
+weight = 5
 [[menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
-weight = 6
-[[menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[menu.main]]
-name = "team"
-pre = "#"
-url = "team"
 weight = 4
 [[menu.main]]
 name = "portfolio"

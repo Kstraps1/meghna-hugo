@@ -17,6 +17,13 @@ portfolio:
     - Tops
     content: 'Yellow Harness '
     link: "#"
+  - name: KStraps Mesh Top
+    image: "/images/20201031_112206_edited.jpeg"
+    image_webp: "/images/20201031_112206_edited.webp"
+    categories:
+    - Tops
+    content: KStraps Mesh Top with hand painted bear paw pocket
+    link: "#"
   - name: KStraps Fetish Shredder Hoodie
     image: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.jpg"
     image_webp: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.webp"
@@ -30,13 +37,6 @@ portfolio:
     categories:
     - accessories
     content: Hanky Clip On's Yellow & Black
-    link: "#"
-  - name: KStraps Mesh Top
-    image: "/images/20201031_112206_edited.jpeg"
-    image_webp: "/images/20201031_112206_edited.webp"
-    categories:
-    - Tops
-    content: KStraps Mesh Top with hand painted bear paw pocket
     link: "#"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg

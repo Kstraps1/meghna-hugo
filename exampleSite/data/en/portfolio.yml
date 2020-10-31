@@ -17,20 +17,20 @@ portfolio:
     - 'Harness  '
     content: 'Yellow Harness '
     link: "#"
+  - name: KStraps Fetish Shredder Hoodie
+    image: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.jpg"
+    image_webp: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.webp"
+    categories:
+    - photography
+    - development
+    content: Fetish Shredder Hoodie
+    link: "#"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
-    categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp

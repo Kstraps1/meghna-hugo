@@ -10,6 +10,13 @@ portfolio:
     - Bottoms
     content: Model Danny J wearing a Jockstrap.
     link: ''
+  - name: KStraps Yellow Harness
+    image: "/images/20201031_061052.jpg"
+    image_webp: images/20201031_061052.webp
+    categories:
+    - Tops
+    content: 'Yellow Harness '
+    link: "#"
   - name: KStraps Fetish Shredder Hoodie
     image: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.jpg"
     image_webp: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.webp"
@@ -24,13 +31,6 @@ portfolio:
     - Tops
     content: KStraps Mesh Top with hand painted bear paw pocket
     link: "#"
-  - name: KStraps Yellow Harness
-    image: "/images/20201031_061052.jpg"
-    image_webp: images/20201031_061052.webp
-    categories:
-    - Tops
-    content: 'Yellow Harness '
-    link: "#"
   - name: Hanky Clip On's
     image: images/kstraps_jockstraps_60385353_2228665163891909_695991509980021560_n.jpg
     image_webp: images/kstraps_jockstraps_60385353_2228665163891909_695991509980021560_n.webp
@@ -38,11 +38,12 @@ portfolio:
     - accessories
     content: Hanky Clip On's Yellow & Black
     link: "#"
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: KStraps Cyclops Jockstraps
+    image: images/kstraps_jockstraps_89412464_2838548352896260_76415898892580377_n_auto_x2-01.jpeg
+    image_webp: images/kstraps_jockstraps_89412464_2838548352896260_76415898892580377_n_auto_x2-01.webp
+    categories:
+    - bottoms
+    content: Cyclops Jockstraps
     link: ''
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg

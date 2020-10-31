@@ -23,19 +23,19 @@ portfolio:
     categories: []
     content: Fetish Shredder Hoodie
     link: "#"
+  - name: Hanky Clip On's
+    image: images/kstraps_jockstraps_60385353_2228665163891909_695991509980021560_n.jpg
+    image_webp: images/kstraps_jockstraps_60385353_2228665163891909_695991509980021560_n.webp
+    categories:
+    - accessories
+    content: Hanky Clip On's Yellow & Black
+    link: "#"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp

@@ -10,12 +10,12 @@ portfolio:
     - Bottoms
     content: Model Danny J wearing a Jockstrap.
     link: ''
-  - name: KStraps Yellow Harness
-    image: "/images/20201031_061052.jpg"
-    image_webp: images/20201031_061052.webp
+  - name: KStraps Fetish Shredder Hoodie
+    image: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.jpg"
+    image_webp: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.webp"
     categories:
     - Tops
-    content: 'Yellow Harness '
+    content: Fetish Shredder Hoodie
     link: "#"
   - name: KStraps Mesh Top
     image: "/images/20201031_112206_edited.jpeg"
@@ -24,12 +24,12 @@ portfolio:
     - Tops
     content: KStraps Mesh Top with hand painted bear paw pocket
     link: "#"
-  - name: KStraps Fetish Shredder Hoodie
-    image: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.jpg"
-    image_webp: "/images/kstraps_jockstraps_61355486_185314829126808_7417328092135210958_n.webp"
+  - name: KStraps Yellow Harness
+    image: "/images/20201031_061052.jpg"
+    image_webp: images/20201031_061052.webp
     categories:
     - Tops
-    content: Fetish Shredder Hoodie
+    content: 'Yellow Harness '
     link: "#"
   - name: Hanky Clip On's
     image: images/kstraps_jockstraps_60385353_2228665163891909_695991509980021560_n.jpg

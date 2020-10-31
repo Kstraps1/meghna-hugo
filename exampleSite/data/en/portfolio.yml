@@ -30,19 +30,19 @@ portfolio:
     - accessories
     content: Hanky Clip On's Yellow & Black
     link: "#"
+  - name: KStraps Mesh Top
+    image: "/images/20201031_112206_edited.jpeg"
+    image_webp: "/images/20201031_112206_edited.webp"
+    categories:
+    - photography
+    content: KStraps Mesh Top with hand painted bear paw pocket
+    link: "#"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp

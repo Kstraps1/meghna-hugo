@@ -17,8 +17,8 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: KStraps Yellow Harness
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: "/images/20201031_061052.jpg"
+    image_webp: images/20201031_061052.webp
     categories:
     - 'Harness  '
     content: 'Yellow Harness '

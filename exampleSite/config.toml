@@ -30,7 +30,7 @@ pre = "#"
 url = "portfolio"
 weight = "3"
 [[menu.main]]
-name = "latest Styles"
+name = "Latest Styles"
 pre = "#"
 url = "blog"
 weight = "4"

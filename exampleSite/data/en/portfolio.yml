@@ -63,6 +63,7 @@ portfolio:
   - name: Animal Print Face Mask
     image: images/cow-facemask.png
     image_webp: "/images/cow-facemask.webp"
-    categories: []
+    categories:
+    - Face Masks
     content: 'Animal print in neoprene. '
     link: "#"

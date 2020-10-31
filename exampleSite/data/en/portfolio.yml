@@ -60,9 +60,9 @@ portfolio:
     - Bottoms
     content: Body harnesses & jockstaps.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: Animal Print Face Mask
+    image: images/cow-facemask.png
+    image_webp: "/images/cow-facemask.webp"
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: 'Animal print in neoprene. '
     link: "#"

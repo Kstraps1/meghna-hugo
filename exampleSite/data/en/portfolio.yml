@@ -45,11 +45,12 @@ portfolio:
     - Bottoms
     content: Cyclops Jockstraps
     link: ''
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: 'KStraps Elastic Harnesses '
+    image: "/images/20201031_120628.jpg"
+    image_webp: "/images/20201031_120628.webp"
+    categories:
+    - Tops
+    content: Elastic harnesses in red, black, and yellow.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg

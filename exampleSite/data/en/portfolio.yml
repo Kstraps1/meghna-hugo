@@ -52,11 +52,13 @@ portfolio:
     - Tops
     content: Elastic harnesses in red, black, and yellow.
     link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: KStraps Body Harnesses & Jockstaps
+    image: "/images/kstraps_jockstraps_60294334_385540342169132_6943279988697524038_n.jpg"
+    image_webp: "/images/kstraps_jockstraps_60294334_385540342169132_6943279988697524038_n.webp"
+    categories:
+    - Tops
+    - Bottoms
+    content: Body harnesses & jockstaps.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg

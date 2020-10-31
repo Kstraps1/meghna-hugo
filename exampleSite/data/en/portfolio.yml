@@ -3,13 +3,13 @@ portfolio:
   enable: true
   title: My Work
   portfolio_item:
-  - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+  - name: Jockstrap
+    image: "/images/kstraps_jockstraps_67773117_919258005106216_7581583714331863047_n-02.jpg"
+    image_webp: "/images/kstraps_jockstraps_67773117_919258005106216_7581583714331863047_n-02.webp"
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    - Jockstrap
+    content: Model Danny J wearing a Jockstrap.
+    link: ''
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp

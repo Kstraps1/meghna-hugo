@@ -61,8 +61,8 @@ portfolio:
     content: Body harnesses & jockstaps.
     link: "#"
   - name: Wonder Woman Mask
-    image: "/images/mockup.jpg"
-    image_webp: "/images/mockup.webp"
+    image: images/mockup.jpg
+    image_webp: images/mockup.webp
     categories:
     - Face Masks
     content: 'Wonder woman themed face '

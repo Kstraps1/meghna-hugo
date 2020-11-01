@@ -82,11 +82,11 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/kiipsilva7"
+icon = "ti-facebook"
+link = "https://www.facebook.com/KStraps/"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/kstraps_jockstraps/"
 [[params.social]]
-icon = "ti-facebook"
-link = "https://www.facebook.com/KStraps/"
+icon = "ti-twitter-alt"
+link = "https://twitter.com/kiipsilva7"

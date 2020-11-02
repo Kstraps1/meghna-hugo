@@ -3,9 +3,8 @@ cta:
   enable: true
   bg_image: "/images/img_20201031_215957_544_photos_v2_faces_x4.jpg"
   bg_image_webp: "/images/img_20201031_215957_544_photos_v2_faces_x4.webp"
-  title: Great Design & Incredible Features
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  title: 'Your Choice, Our Pleasure. '
+  content: 'We make custom fetish-wear that will spice up any encounter. '
   button:
     enable: true
     label: Contact Us

@@ -7,11 +7,10 @@ sections:
 - type: document
   path: exampleSite/data/en/portfolio.yml
   label: Pictures
-  match: "**/*"
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data
+  path: exampleSite/data/en
   label: Homepage
   create: all
   match: "**/*"

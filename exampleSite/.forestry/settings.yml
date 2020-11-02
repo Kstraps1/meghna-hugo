@@ -4,10 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
+- type: document
   path: exampleSite/data/en/portfolio.yml
   label: Pictures
-  create: all
   match: "**/*"
 - type: heading
   label: Data

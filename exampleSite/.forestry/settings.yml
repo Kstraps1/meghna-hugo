@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: pages/examplesite-data-en-portfolio-yml
+  path: exampleSite/data/en/portfolio.yml
   label: Pictures
   create: all
   match: "**/*"

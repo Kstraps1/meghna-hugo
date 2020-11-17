@@ -3,9 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: Please specify the style and fabric you would like for your item. Please
+    email us a screenshot of the item directly.
   contact_list:
   - icon: ti-location-pin
     info: 653 BRITTON ST, BRONX, NY 10467

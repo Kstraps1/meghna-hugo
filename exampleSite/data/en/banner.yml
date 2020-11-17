@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image_webp: images/photo.webp
   bg_image: images/photo.png
-  icon: images/img_20201031_215915_419.jpg
-  title: Hold Your D!©k
+  icon: ''
+  title: Let Us Hold Your D!©k
   content: 'We provide gear for all of your sexual journeys. '
   button:
     enable: true

@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/photo.webp
   bg_image: images/photo.png
-  icon: ''
+  icon: images/logo.png
   title: KStraps
   Hold Your D!©k
   content: 'We provide gear for all of your sexual journeys. '
